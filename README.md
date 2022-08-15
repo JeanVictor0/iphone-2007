@@ -27,5 +27,8 @@ Com base no iPhone elaborar uma ferramenta que simula e é funcional, usando sis
 * Docker e containers
 * Obter mais de 1 dispositivo
 
+## Histórico de Atualizações
 
+* V 0.1
+  * Ainda em criação
 
