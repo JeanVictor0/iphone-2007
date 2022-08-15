@@ -5,8 +5,6 @@
 
 ## O que é esse projeto?
 
-Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
-
 Com base no iPhone elaborar uma ferramenta que simula e é funcional, usando sistemas externos de uma api como [server-phone](https://github.com/JeanVictor0/server_phone).
 
 ##### O que eu espero:
