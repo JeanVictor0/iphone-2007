@@ -1,23 +1,31 @@
 # Iphone java
-www.dio.me
 
 #### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- [Jean Victor](https://github.com/JeanVictor0)
 
-## POO - Desafio
+## O que é esse projeto?
 
 Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
-Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
+Com base no iPhone elaborar uma ferramenta que simula e é funcional, usando sistemas externos de uma api como [server-phone](https://github.com/JeanVictor0/server_phone).
 
-[Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
-
-- Minutos relevantes do 00:15 até 00:55
-
-###### Comportamentos esperados:
-* Repodutor Musicial: tocar, pausar, selecionarMusica
-* Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
-* Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+##### O que eu espero:
+* Segurança
+  * Senha
+  * Persistencia
+* Chip
+  * Internet: Envio e receber arquivos e acessar sites e opções 
+  * Sms
+  * "Ligação" que sera apenas chat ao vivo
+* Aplicativos
+  * FireWater - navegador
+  * MusicPlayer
+  * Explorer - gerenciador de arquivos
+  * Sms
+  * Call Number
+* Arquivos - arvore binaria
+* Docker e containers
+* Obter mais de 1 dispositivo
 
 
 
